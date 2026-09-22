@@ -1,0 +1,5 @@
+id_movimentacao;id_produto;tipo;quantidade;data;;
+1;1;Entrada;100;01/03/2026 08:30;;
+2;2;Entrada;45;01/03/2026 09:00;;
+3;3;Saída;1;02/03/2026 14:15;;
+4;4;Saída;1;03/03/2026 03:33;;

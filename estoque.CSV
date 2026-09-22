@@ -1,0 +1,5 @@
+id_estoque;id_produto;quantidade;quantidade_minima;localizacao
+1;1;100;20;Arara 01 - Seção Masculina
+2;2;45;10;Prateleira B2 - Jeans
+3;3;1;1;Patreleira da Justiça - Aura
+4;4;30;5;Cofre - Seção Feitiçaria
