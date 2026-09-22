@@ -1,5 +1,5 @@
-id;nome;descricao;preco;marca;id_categoria;id_fornecedor
-1;Camiseta Tung Tung Sahur;Camiseta masculina 100% madeira, gola careca, cor marrom;49,9;Brain;2;1
-2;Calça Billie Jeans;Calça jeans masculina azul escuro com elastano;139,9;Michael;2;1
-3;Vestido do Batman;Vestido sombrio para trazer justiça nas ruas;159,9;Vengeance;1;2
-4;Anel de salomão;Um anel com extremo poder e extremo perigo, não venda;30;Sal;3;3
+id,nome,descricao,preco,marca,id_categoria,id_fornecedor
+1,Camiseta Tung Tung Sahur,Camiseta masculina 100% madeira, gola careca, cor marrom,49,9,Brain,2,1
+2,Calï¿½a Billie Jeans,Calï¿½a jeans masculina azul escuro com elastano,139,9,Michael,2,1
+3,Vestido do Batman,Vestido sombrio para trazer justiï¿½a nas ruas,159,9,Vengeance,1,2
+4,Anel de salomï¿½o,Um anel com extremo poder e extremo perigo, nï¿½o venda,30,Sal,3,3
