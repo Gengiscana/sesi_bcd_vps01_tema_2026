@@ -34,10 +34,10 @@ Este é um banco de dados de um estoque de uma loja de roupas, gerindo vestidos 
 | Movimentação do estoque | quantidade | int | 11 | Quantidade de movimentação do estoque |
 | Movimentação do estoque | data | datetime | 5 bytes | Data de movimentação do estoque |
 ## Dados de Teste CSV
-[Produtos](produto.CSV)
-[Fornecedor](fornecedor.CSV)
-[Categoria](categoria.CSV)
-[Estoque](estoque.CSV)
+[Produtos](produto.CSV)<br>
+[Fornecedor](fornecedor.CSV)<br>
+[Categoria](categoria.CSV)<br>
+[Estoque](estoque.CSV)<br>
 [Movimentação](mov.CSV)
 ## Linhas de código DDL e DML
 ### DDL
