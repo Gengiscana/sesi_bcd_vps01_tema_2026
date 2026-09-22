@@ -27,3 +27,8 @@ insert into movimentacao_do_estoque (id_produto, tipo, quantidade, data) values
 (2, 'Entrada', 45, '2026-03-01 09:00:00'),
 (3, 'Saída', 1, '2026-03-02 14:15:00'),
 (4, 'Saída', 1, '2026-03-03 03:33:33');
+
+select * from cliente;
+select * from telefone;
+select * from produto;
+select * from pedido;
